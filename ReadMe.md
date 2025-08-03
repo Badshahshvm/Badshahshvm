@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me – Shivam Kumar<br>🧑‍💻 Tech Enthusiast | Passionate about building full-stack and enterprise-level applications<br><br>🔧 Tech Stack: MERN (MongoDB, Express.js, React, Node.js), .NET (MVC, Web Forms, Windows Forms, Core)<br><br>📚 Project Work: Built an attractive, user-friendly project (UI-focused and feature-rich!)<br><br>🌱 Currently Exploring: Advanced backend patterns & frontend interactivity<br><br>🚀 Hobbies: Experimenting with UI designs, contributing to open-source, and learning modern frameworks
+👨‍💻 Hi, I am  – Shivam Kumar<br>🧑‍💻 Tech Enthusiast | Passionate about building full-stack and enterprise-level applications<br><br>🔧 Tech Stack: MERN (MongoDB, Express.js, React, Node.js), .NET (MVC, Web Forms, Windows Forms, Core)<br><br>📚 Project Work: Built an attractive, user-friendly project (UI-focused and feature-rich!)<br><br>🌱 Currently Exploring: Advanced backend patterns & frontend interactivity<br><br>🚀 Hobbies: Experimenting with UI designs, contributing to open-source, and learning modern frameworks
 
 
 ## 🌐 Socials:
