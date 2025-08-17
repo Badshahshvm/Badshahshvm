@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Shivam Kumar — a dedicated Full-Stack Developer and .NET & Java enthusiast, passionate about crafting scalable, interactive, and elegant web applications.<br><br>🔧 Tech Stack: MERN (MongoDB, Express.js, React, Node.js), .NET (MVC, Web Forms, Windows Forms, Core)<br><br>📚 Project Work: Built an attractive, user-friendly project (UI-focused and feature-rich!)<br><br>🌱 Currently Exploring: Advanced backend patterns & frontend interactivity<br><br>🚀 Hobbies: Experimenting with UI designs, contributing to open-source, and learning modern frameworks<br></br>💡 Motivation:
-"Code with purpose, build with passion — every line brings an idea to life."
+Code with purpose, build with passion — every line brings an idea to life.
 
 
 ## 🌐 Socials:
