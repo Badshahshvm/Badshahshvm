@@ -1,6 +1,47 @@
 # 💫 About Me:
-👋 Hi, I’m Shivam Kumar — a dedicated Full-Stack Developer and .NET & Java enthusiast, passionate about crafting scalable, interactive, and elegant web applications.<br><br>🔧 Tech Stack: MERN (MongoDB, Express.js, React, Node.js), .NET (MVC, Web Forms, Windows Forms, Core)<br><br>📚 Project Work: Built an attractive, user-friendly project (UI-focused and feature-rich!)<br><br>🌱 Currently Exploring: Advanced backend patterns & frontend interactivity<br><br>🚀 Hobbies: Experimenting with UI designs, contributing to open-source, and learning modern frameworks<br></br>💡 Motivation:
-Code with purpose, build with passion — every line brings an idea to life.
+
+👋 **Hi, I’m Shivam Kumar** — a passionate **Full-Stack Developer** and **.NET & Java enthusiast**, dedicated to building scalable, interactive, and visually engaging web applications.
+
+---
+
+## 🧠 Tech Stack
+💻 **Frontend:** React.js, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)  
+🧩 **Backend:** Node.js, Express.js, .NET (MVC, Web Forms, Windows Forms, Core)  
+🗄️ **Database:** MongoDB, SQL Server, MySQL  
+⚙️ **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code, Postman  
+
+---
+
+## 🚀 Projects
+✨ Developed modern, feature-rich applications with clean UI, robust architecture, and seamless user experience.  
+🌐 Focused on **responsive design**, **secure authentication**, and **real-time interactivity**.
+
+---
+
+## 🌱 Currently Exploring
+🔍 Advanced backend patterns • API optimization • Frontend animation (GSAP + Framer Motion)  
+
+---
+
+## 💡 Motivation
+> 💬 *“Code with purpose, build with passion — every line brings an idea to life.”*
+
+---
+
+## 🧩 Hobbies
+🎨 Experimenting with creative UI designs  
+🌍 Contributing to open-source projects  
+📖 Learning modern frameworks and improving development workflows  
+
+---
+
+### 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+
+---
+
 
 
 ## 🌐 Socials:
