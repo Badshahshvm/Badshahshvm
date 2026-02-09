@@ -3,7 +3,6 @@
 👋 **Hi, I’m Shivam Kumar** — a passionate **Full-Stack Developer** and **.NET & Java enthusiast**, dedicated to building scalable, interactive, and visually engaging web applications.
 
 ---
-
 ## 🧠 Tech Stack
 💻 **Frontend:** React.js, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)  
 🧩 **Backend:** Node.js, Express.js, .NET (MVC, Web Forms, Windows Forms, Core)  
