@@ -1,6 +1,6 @@
 # 💫 About Me:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👋 **Hi, I’m Shivam Kumar** — a passionate **Full-Stack Developer** and **.NET & Java enthusiast**, dedicated to building scalable, interactive, and visually engaging web applications.
+👋 **Hi, I’m Shivam Kumar** — a passionate **Full-Stack Developer** and **.NET & Java enthusiast**, dedicated to building scalable, interactive, and visually engaging web applications.....
 
 ---
 ## 🧠 Tech Stack
